@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  Visitor count<br>
+  Profil Ziyaret Sayısı<br>
   <img src="https://warp-profuse-force.glitch.me/sayac.svg" />
 </p>
 
