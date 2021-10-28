@@ -16,7 +16,7 @@
 </p>
 <p align="center"> 
   Profil Ziyaret Sayısı<br>
-  <img src="https://warp-profuse-force.glitch.me/sayac.svg" />
+  <img src="http://62.171.128.234:3074/sayac.svg" />
 </p>
 
 
