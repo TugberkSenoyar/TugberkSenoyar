@@ -16,7 +16,7 @@
 </p>
 <p align="center"> 
   Profil Ziyaret Sayısı<br>
-  <img src="http://62.171.128.234:3074/sayac.svg" />
+  <img src="http://de1.nightservers.xyz:30816/sayac.svg" />
 </p>
 
 
