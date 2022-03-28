@@ -19,4 +19,4 @@
   <img src="http://de1.nightservers.xyz:30816/sayac.svg" />
 </p>
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/569230580743536652)](https://discord.com/users/569230580743536652)
