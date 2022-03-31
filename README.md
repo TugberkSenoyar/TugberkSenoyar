@@ -1,5 +1,12 @@
 
-
+<div font-family: arial;
+  font-size: 24px;
+  margin: 25px;
+  width: 350px;
+  height: 200px;
+  outline: dashed 1px black;>
+  <p>Hello, 👋</p>
+</div>
 <br />
 <br />
 
@@ -19,4 +26,7 @@
   <img src="http://de1.nightservers.xyz:30816/sayac.svg" />
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/569230580743536652)](https://discord.com/users/569230580743536652)
+<div align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/569230580743536652)](https://discord.com/users/569230580743536652)
+</div>
+
