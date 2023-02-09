@@ -34,7 +34,7 @@
   <a href="https://www.docker.com/" target"blank_"><img src="./docker.png" alt=""></a>
   <a href="https://discord.js.org/#/" target"blank_"><img src="./discordjs.png" width="48" alt=""></a>
   <a href="https://nodejs.org/" target"blank_"><img src="./nodejs.png" alt=""></a>
-  <a href="https://www.javascript.com//" target"blank_"><img src="./javascript.gif" width="48" alt=""></a>
+  <a href="https://www.javascript.com//" target"blank_"><img src="./javascript.png" width="48" alt=""></a>
   <a href="https://www.nginx.com/" target"blank_"><img src="./nginx.png" alt=""></a>
 </p>
 
